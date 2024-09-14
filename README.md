@@ -1,7 +1,23 @@
-
+## Habbit Tracker
 
 ## Available Scripts
 
+## How to Start
+
+Follow these steps to run the Album Manager on your local machine:
+
+1. **Clone the Repository**:
+   Clone this repository to your local machine using the following command:
+
+   git clone [repository-url]
+2. **Navigate to the Project Directory**:
+
+  cd album-manager
+
+3. **Install Dependencies**:
+
+ npm install
+4. **Start the Development Server**:
 In the project directory, you can run:
 
 ### `npm start`
