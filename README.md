@@ -1,6 +1,5 @@
 ## Habbit Tracker
 
-## Available Scripts
 
 ## How to Start
 
